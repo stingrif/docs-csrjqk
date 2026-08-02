@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-q3iamq.altogel57crc.site/sitemap.xml
